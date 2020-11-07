@@ -11,4 +11,11 @@ getElementsByTagName('태그 이름')
 ```js
 getElementById('아이디 이름')
 ```
--> id 이름을 가진 HTML 부분을 나타낸다.
+-> id 이름을 가진 태그 부분을 나타낸다.
+
+<br>
+
+```js
+getElementsByClassName('클래스 이름')
+```
+-> class 이름을 가진 태그를 리스트로 저장
