@@ -18,4 +18,4 @@ getElementById('아이디 이름')
 ```js
 getElementsByClassName('클래스 이름')
 ```
--> class 이름을 가진 태그를 리스트로 저장
+-> class 이름을 가진 태그를 리스트로 저장한다. 따라서 인덱스로 저장해야한다.
