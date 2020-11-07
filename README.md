@@ -6,6 +6,7 @@ getElementsByTagName('태그 이름')
 ```
 -> 태그 배열로 반환한다. 따라서 인덱스로 접근을 해야한다.
 
+<br>
 
 ```js
 getElementById('아이디 이름')
